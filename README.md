@@ -70,10 +70,6 @@
 </a>
 </div>
 
-<div align="center>
-📧 Email: rladudaud97@naver.com
-  
-
 <br/>  
 
 
