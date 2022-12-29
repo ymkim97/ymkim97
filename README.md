@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Youngmyung Kim, Backend Developer👩‍💻 <br/> 📧 Email: rladudaud97@naver.com</div>  
+### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [PasswordFx](https://github.com/ymkim97/PasswordFx)  
@@ -67,7 +67,8 @@
 </a>
 <a href="https://instagram.com/y__m_kim" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+📧 Email: rladudaud97@naver.com
 </div>  
   
 
