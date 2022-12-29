@@ -3,8 +3,7 @@
 </div>  
   
 
-### <div align="center">Youngmyung Kim, Backend Developer👩‍💻
-  📧 Email: rladudaud97@naver.com</div>  
+### <div align="center">Youngmyung Kim, Backend Developer👩‍💻 <br/> 📧 Email: rladudaud97@naver.com</div>  
   
 
 - 🔭 I’m currently working on [PasswordFx](https://github.com/ymkim97/PasswordFx)  
