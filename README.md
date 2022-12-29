@@ -67,6 +67,8 @@
 </a>
 <a href="https://instagram.com/y__m_kim" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+ <br/>
+ 📧 rladudaud97@naver.com
 </div>
 
 <br/>  
