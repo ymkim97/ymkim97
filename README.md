@@ -5,6 +5,7 @@
 
 ### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
   
+  📧 Email: rladudaud97@naver.com
 
 - 🔭 I’m currently working on [PasswordFx](https://github.com/ymkim97/PasswordFx)  
   
