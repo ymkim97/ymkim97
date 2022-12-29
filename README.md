@@ -3,9 +3,9 @@
 </div>  
   
 
-### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
+### <div align="center">Youngmyung Kim, Backend Developer👩‍💻
+  📧 Email: rladudaud97@naver.com</div>  
   
-  📧 Email: rladudaud97@naver.com
 
 - 🔭 I’m currently working on [PasswordFx](https://github.com/ymkim97/PasswordFx)  
   
