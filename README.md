@@ -69,17 +69,12 @@
 <a href="https://instagram.com/y__m_kim" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </div>
-
-<br/>
- 
- <div align="center"> 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymkim97)](https://solved.ac/ymkim97/)
- </div>
   
 <br/>
   
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ymkim97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ymkim97&show_icons=true&count_private=true&hide_border=true" align="center" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymkim97)](https://solved.ac/ymkim97/)</div>  
 
 <br/>  
 
