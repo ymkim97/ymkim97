@@ -70,9 +70,12 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </div>
 
-<br/>  
+<br/>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymkim97)](https://solved.ac/ymkim97/)
 
-
+<br/>
+  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ymkim97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
