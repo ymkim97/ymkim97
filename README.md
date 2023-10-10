@@ -9,10 +9,10 @@
 - Notion: https://ymkim97.notion.site/40fc0aadc8ec4aa49c0adadfbd500bfe
 - Velog.io: https://velog.io/@ymkim97
 
-- 🔭 I’m currently working on [PasswordFx](https://github.com/ymkim97/PasswordFx)  
+- 🔭 I’m currently working on Programmers Backend DevCourse
   
 
-- 🌱 I’m currently learning Spring  
+- 🌱 I’m currently learning Java, Spring
   
 
 - ❓ Ask me about anything related to ...  
