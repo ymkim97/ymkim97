@@ -9,7 +9,7 @@
 - Notion: https://ymkim97.notion.site/40fc0aadc8ec4aa49c0adadfbd500bfe
 - Velog.io: https://velog.io/@ymkim97
 
-- 🔭 I’m currently working on Programmers Backend DevCourse
+- 🔭 I’m currently working on www.moabam.com
   
 
 - 🌱 I’m currently learning Java, Spring
@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to ...  
   
 
-- ⚡ Fun fact: I am about to graduate Sejong Univ. 
+- ⚡ Fun fact: I am about to graduate Sejong Univ. (2024-02)
   
 
 <br/>  
