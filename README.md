@@ -6,8 +6,6 @@
 ### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
   
 - 📧 Email: rladudaud97@naver.com
-- Notion: https://ymkim97.notion.site/40fc0aadc8ec4aa49c0adadfbd500bfe
-- Velog.io: https://velog.io/@ymkim97
 
 - 🔭 I’m currently working on www.moabam.com
   
