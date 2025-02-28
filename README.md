@@ -7,7 +7,7 @@
   
 - 📧 Email: rladudaud97@naver.com
 
-- 🔭 I’m currently working on www.moabam.com
+- 🔭 I’m currently working on TnT - Trainer and Trainee
   
 
 - 🌱 I’m currently learning Java, Spring
