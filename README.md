@@ -7,7 +7,7 @@
   
 - 📧 Email: rladudaud97@naver.com
 
-- 🔭 I’m currently working on TnT - Trainer and Trainee
+- 🔭 I’m currently working on [AlgoMarket](https://github.com/ymkim97/algo-market)
   
 
 - 🌱 I’m currently learning Java, Spring
