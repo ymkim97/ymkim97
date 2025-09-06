@@ -1,11 +1,11 @@
 import feedparser, time
 
-URL="[rss 피드 URL]"
+URL="https://ymkim97.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
 markdown_text = """
-✍️ Recent Blog Post
+## ✍️ Recent Blog Post
 """ # list of blog posts will be appended here
 
 
