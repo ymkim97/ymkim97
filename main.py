@@ -116,6 +116,9 @@ blog_text = """
 ## ✍️ Recent Blog Post
 """ # list of blog posts will be appended here
 
+f = open("README.md",mode="w", encoding="utf-8")
+f.write(blog_text)
+
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
@@ -123,7 +126,5 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
-f = open("README.md",mode="w", encoding="utf-8")
-f.write(blog_text)
 f.write(markdown_text)
 f.close()
