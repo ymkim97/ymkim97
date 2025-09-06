@@ -128,3 +128,4 @@ for idx, feed in enumerate(RSS_FEED['entries']):
 
 f.write(markdown_text)
 f.close()
+
