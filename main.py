@@ -5,11 +5,6 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
 markdown_text = """
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90" />
-</div>  
-  
-
 ### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
   
 - 📧 Email: rladudaud97@naver.com
