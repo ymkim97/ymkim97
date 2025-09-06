@@ -36,5 +36,5 @@ jobs:
         git diff
         git config --local user.email "rladudaud97@naver.com"
         git config --local user.name "ymkim97"
-        git commit -m "Update README.me"
+        git commit -m "Update README.md"
         git push
