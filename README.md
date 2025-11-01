@@ -6,7 +6,7 @@
 * **NHN Cloud** - 클라우드 AI팀, BE Part-time _(2024.12 ~ 2025.02)_
   
 
-## ✍️ Recent Blog Post
+## Recent Blog Post
 [2025/09/06 - Transactional Outbox Pattern으로 이벤트 발행 원자성 확보하기](https://ymkim97.tistory.com/9) <br/>
 [2025/08/28 - Online Judge 채점 서버의 제출 코드 실행 시간 측정하기](https://ymkim97.tistory.com/8) <br/>
 [2025/07/12 - Log4j2 아키텍처 분석하기 - 2](https://ymkim97.tistory.com/7) <br/>
