@@ -2,8 +2,8 @@
   
 ## Work Experiences
 
-* 라포랩스 - Seller Squad(퀸잇) (2025.11 ~ ing)
-* NHN Cloud - 클라우드 AI팀 (BE Part-time, 2024.12 ~ 2025.02)
+* **라포랩스** - Seller Squad(퀸잇) _(2025.11 ~ ing)_
+* **NHN Cloud** - 클라우드 AI팀, BE Part-time _(2024.12 ~ 2025.02)_
   
 
 ## ✍️ Recent Blog Post
