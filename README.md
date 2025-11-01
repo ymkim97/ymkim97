@@ -1,4 +1,4 @@
-### <div align="center">Youngmyung Kim, Backend Developer👩‍💻</div>  
+### <div align="center">Youngmyung Kim, Backend Developer🧑‍💻</div>  
   
 ## Work Experiences
 
